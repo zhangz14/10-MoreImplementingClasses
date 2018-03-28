@@ -240,7 +240,6 @@ class CapitalT(object):
         #     that the T moves through, but there is only 1 T at any moment.
         # --------------------------------------------------------------
 
-
     def clone(self):
         """
         What comes in:
